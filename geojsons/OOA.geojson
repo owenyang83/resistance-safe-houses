@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "Name": "OOA",
+        "Add": "32 old school rd",
+        "Review":"not bad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.99343872070312,
+          -37.82714141683739
+        ]
+      }
+    }
+  ]
+}
